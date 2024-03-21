@@ -16,3 +16,8 @@ Before running the project, you need to initialize it with npm (Node Package Man
 Run the command npm run storybook in the terminal:
 
 This command executes a script named "storybook" defined in the package.json file. It likely starts up a development server or runs a build process specific to the project.
+
+
+Open your web browser and navigate to http://localhost:6006/.
+
+Here, you will be able to view the project running in Storybook.
